@@ -33,9 +33,9 @@ The goal of this dashboard is to provide clear insights into **sales trends, pro
 ---
 
 ### 🎥 Dashboard Demo Video
-*(Upload your dashboard demo video to GitHub or YouTube and place the link below)*  
 
-🔗 **Dashboard Video:** *Add your video link here*
+
+🔗 **Dashboard Video:** *amazon sales dashboard.mp4*
 
 ---
 
