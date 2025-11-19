@@ -28,7 +28,7 @@ The goal of this dashboard is to provide clear insights into **sales trends, pro
 ---
 
 ### 🖼️ Dashboard Overview (Image)
-![Amazon Dashboard Overview](images/dashboard-overview.png)
+![Amazon Dashboard Overview](Amazon-sales-dashboard.png)
 
 ---
 
