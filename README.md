@@ -35,7 +35,7 @@ The goal of this dashboard is to provide clear insights into **sales trends, pro
 ### 🎥 Dashboard Demo Video
 
 
-🔗 **Dashboard Video:** *amazon sales dashboard.mp4*
+🔗 **Dashboard Video:** *[amazon sales dashboard.mp4](https://github.com/Pruthviraj80888/Amazon-sales-dashboard/blob/main/amazon%20sales%20dashboard.mp4)*
 
 ---
 
@@ -65,7 +65,7 @@ Special thanks to **Office Master** and **B10X** — their tutorials and guidanc
 ---
 
 ### 📚 How to Use
-1. Download the `Amazon_Sales_Dashboard.pbix` file from the **pbix** folder.  
+1. Download the `Amazon-sales-dashboard.pbix` file from the **pbix** folder.  
 2. Open it in **Power BI Desktop (latest version)**.  
 3. Explore insights using the interactive filters and visuals.
 
